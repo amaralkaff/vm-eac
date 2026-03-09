@@ -1,0 +1,45 @@
+# build output
+bin/
+obj/
+x64/
+*.exe
+*.obj
+*.sys
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog/
+*.log
+*.lastbuildstate
+*.idb
+*.ipch
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+.vs/
+
+# crash dumps
+*.dmp
+
+# test output
+hv_result.txt
+hv_test_output.txt
+
+# secrets
+src/security/SECURITY_REFERENCE.txt
+
+# misc
+*.bat
+.claude/
+efi/
+km/
+DirectIo64.sys
+latest_dump.dmp
+dump2.dmp
+dump3.dmp
+latest.dmp
+prev.dmp
