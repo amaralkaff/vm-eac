@@ -1,3 +1,5 @@
+# I'm GIVE UP ....
+
 # vm-eac
 
 bare-metal vt-x hypervisor for apex legends on windows 10 (19045). cpuid-based hypercall for kernel-usermode comms — no device object, no ioctl, no handle.
